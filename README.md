@@ -8,6 +8,7 @@ Features:
 4. Calling Emergency Services.
 5. Taking pictures to know the severity.
 
+Link: https://youtu.be/Pgxf6k4QOEs
 
 API that could be used for the news feed: 
 GOOGLE API - https://newsapi.org/s/google-news-api
