@@ -1,5 +1,5 @@
 # Openhack-2019
-REDCROSS PROTOTYPE- Alexia Team
+REDCROSS PROTOTYPE- Alexa Team
 
 Features:
 1. Registrating with MobileBank ID to reduce false positives. 
